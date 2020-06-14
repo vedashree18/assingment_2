@@ -1,0 +1,91 @@
+body{
+	text-decoration: none;
+	color: black;
+	padding:0px;
+	border: 0px;
+}
+#header-nav{
+	border: 5px solid black;
+	background-color: #959696;
+	height: 50px;
+	padding-right:0px;
+	min-width: 500px;
+	padding-left: 0px;
+}
+
+.navbar-brand h2{
+position: relative;
+bottom: 30px;
+font-family: 'BalsamiqSans', sans-serif;
+font-size: 25px;
+margin-left:0px;
+margin-right:0px;
+margin-bottom: 6px;
+color: black;
+}
+
+#title{
+position: relative;
+margin-top:50px;
+margin-bottom:50px;
+text-align: center;
+
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+ border: 1px solid black;
+ top: 0px;
+ right: 20px;
+}
+
+.navbar-header button.navbar-toggle{
+	clear both;
+}
+
+#collapsable-nav span{
+	position: relative;
+	font-size: 15px;
+	text-align: center;
+	align-content: center;
+    color: black;
+}
+#nav-list li{
+	position: relative;
+	text-align: center;
+	left: 10px;
+	border: 1px solid black;
+}
+
+.row span{
+	position: relative;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: center;
+	align-content: center;
+}
+
+ #chick{
+	box-sizing: border-box;
+	background-color: #959696;
+	border: 3px solid black;
+	text-align: center;
+	padding:13px;
+	margin-top: 7px;
+}
+
+ #beef{
+	box-sizing: border-box;
+	background-color: #959696;
+	border: 3px solid black;
+	text-align: center;
+	margin-top: 7px;
+	.
+	3+
+}
+ #sush{
+	box-sizing: border-box;
+	background-color: #959696;
+	border: 3px solid black;
+	text-align: center;
+	margin-top: 7px;
+}
